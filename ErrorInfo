@@ -1,0 +1,3 @@
+The "bad magic number" error 
+  1. .pyc file was compiled with a different version of Python than the one being used to run it. 
+  2. Python bytecode files (.pyc) are version-specific, so a .pyc file generated with one version of Python cannot be used with another.
