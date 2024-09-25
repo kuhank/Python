@@ -1,5 +1,5 @@
 
-# pip install openpysl msoffcryto-tool # password activity in excel
+# pip install openpyxl msoffcrypto-tool # password activity in excel
 
 import msoffcrypto
 import openpyxl
