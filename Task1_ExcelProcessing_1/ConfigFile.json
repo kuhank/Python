@@ -1,0 +1,8 @@
+{
+    "source": {"filename":"filename.xls",
+                "folder":"C:\\customPath\\input"
+    },
+    "output":{"filename":"filename.xlsx",
+                "folder":"C:\\customPath\\output"
+    }
+}
