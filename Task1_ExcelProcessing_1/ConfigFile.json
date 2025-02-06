@@ -1,9 +1,9 @@
 {
     "source": {"filename":"filename.xls",
-                "folder":"C:\\code\\southlake\\input"
+                "folder":"C:\\custompath\\input"
     },
     "output":{"filename":"filename.xlsx",
-                "folder":"C:\\code\\southlake\\output"
+                "folder":"C:\\custompath\\output"
     },
     "sourceDB":{"server":"x.x.x.x",
     "database": "DB",
