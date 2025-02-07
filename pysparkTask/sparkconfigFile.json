@@ -1,0 +1,32 @@
+{
+    "source": {"host": "x.x.x.x",
+                "port":prt,
+                "database":"db",
+                "username":"user",
+                "password":"pwd",
+                "tablename":"table"
+    },
+    "target": {"host": "x.x.x.x",
+                "port":prt,
+                "database":"db",
+                "username":"user",
+                "password":"pwd",
+                "tablename":"table"
+    },
+    "driverconfig": {
+        "jarFileName": "mssql-jdbc-12.8.1.jre8.jar",
+        "jarFilePath": "C:\\custompath\\sparkJars\\"
+    },
+    "mapping_column":{"map":{"ID":"ID"
+                            ,"Patient ID":"Patient ID"
+                            ,"Insurance ID":"Insurance ID"
+                            ,"Policy No":"Policy No"
+                            ,"Group No":"Group No"
+                            ,"InsuranceType":"InsuranceType"
+                            ,"Ordinal":"Ordinal"
+                            ,"PracticeId":"PracticeId"
+                            ,"CreatedBy":"CreatedBy"
+                            ,"CreationDate":"CreationDate"
+                        }
+}
+}
